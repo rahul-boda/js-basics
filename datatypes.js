@@ -6,7 +6,7 @@ var a=10;
 
  //string
  var let="im rah ";
- var let="Rahul";//updation of  alredy assigned variable
+ var let="Rahul";//updation of  already assigned variable
  let to="from";
  const place="warangal";
  console.log(typeof(let,to,place))
