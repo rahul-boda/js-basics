@@ -61,10 +61,7 @@ var move = string2.split("=")
 var string3 = "lazy"
 console.log(string3.replace("z", "g"))
 //repat method//
-var a="Rahul"
-console.log(a.repeat(3))
-var string4 = "apple"
-console.log(string4.repeat(3))
+
 //valueof method//
 let str = new String("Hello, World!");  // String object
 console.log(str.valueOf());             // Output: "Hello, World!"
